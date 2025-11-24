@@ -6,8 +6,8 @@
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod4-sockets_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "138",
-        "assignmentId": "46"
+        "courseId": "349",
+        "assignmentId": "157"
     },
     "assets": [
         "./node_modules/sqlite3/lib/binding/**/*"
